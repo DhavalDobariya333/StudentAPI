@@ -1,0 +1,122 @@
+E:\C#\Asp.Net core MVC\StudentAPI\bin\Debug\net6.0\appsettings.Development.json
+E:\C#\Asp.Net core MVC\StudentAPI\bin\Debug\net6.0\appsettings.json
+E:\C#\Asp.Net core MVC\StudentAPI\bin\Debug\net6.0\StudentAPI.exe
+E:\C#\Asp.Net core MVC\StudentAPI\bin\Debug\net6.0\StudentAPI.deps.json
+E:\C#\Asp.Net core MVC\StudentAPI\bin\Debug\net6.0\StudentAPI.runtimeconfig.json
+E:\C#\Asp.Net core MVC\StudentAPI\bin\Debug\net6.0\StudentAPI.dll
+E:\C#\Asp.Net core MVC\StudentAPI\bin\Debug\net6.0\StudentAPI.pdb
+E:\C#\Asp.Net core MVC\StudentAPI\bin\Debug\net6.0\Humanizer.dll
+E:\C#\Asp.Net core MVC\StudentAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\C#\Asp.Net core MVC\StudentAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\C#\Asp.Net core MVC\StudentAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\C#\Asp.Net core MVC\StudentAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\C#\Asp.Net core MVC\StudentAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\C#\Asp.Net core MVC\StudentAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\C#\Asp.Net core MVC\StudentAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\C#\Asp.Net core MVC\StudentAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\C#\Asp.Net core MVC\StudentAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\C#\Asp.Net core MVC\StudentAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\C#\Asp.Net core MVC\StudentAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\C#\Asp.Net core MVC\StudentAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\C#\Asp.Net core MVC\StudentAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\C#\Asp.Net core MVC\StudentAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\C#\Asp.Net core MVC\StudentAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\C#\Asp.Net core MVC\StudentAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\C#\Asp.Net core MVC\StudentAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\C#\Asp.Net core MVC\StudentAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\C#\Asp.Net core MVC\StudentAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\C#\Asp.Net core MVC\StudentAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\C#\Asp.Net core MVC\StudentAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\C#\Asp.Net core MVC\StudentAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\C#\Asp.Net core MVC\StudentAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\C#\Asp.Net core MVC\StudentAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\C#\Asp.Net core MVC\StudentAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\C#\Asp.Net core MVC\StudentAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\C#\Asp.Net core MVC\StudentAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\C#\Asp.Net core MVC\StudentAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C#\Asp.Net core MVC\StudentAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C#\Asp.Net core MVC\StudentAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C#\Asp.Net core MVC\StudentAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\C#\Asp.Net core MVC\StudentAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\C#\Asp.Net core MVC\StudentAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\C#\Asp.Net core MVC\StudentAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\C#\Asp.Net core MVC\StudentAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\C#\Asp.Net core MVC\StudentAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\C#\Asp.Net core MVC\StudentAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\C#\Asp.Net core MVC\StudentAPI\obj\Debug\net6.0\StudentAPI.csproj.AssemblyReference.cache
+E:\C#\Asp.Net core MVC\StudentAPI\obj\Debug\net6.0\StudentAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\Asp.Net core MVC\StudentAPI\obj\Debug\net6.0\StudentAPI.AssemblyInfoInputs.cache
+E:\C#\Asp.Net core MVC\StudentAPI\obj\Debug\net6.0\StudentAPI.AssemblyInfo.cs
+E:\C#\Asp.Net core MVC\StudentAPI\obj\Debug\net6.0\StudentAPI.csproj.CoreCompileInputs.cache
+E:\C#\Asp.Net core MVC\StudentAPI\obj\Debug\net6.0\StudentAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\C#\Asp.Net core MVC\StudentAPI\obj\Debug\net6.0\StudentAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\C#\Asp.Net core MVC\StudentAPI\obj\Debug\net6.0\staticwebassets.build.json
+E:\C#\Asp.Net core MVC\StudentAPI\obj\Debug\net6.0\staticwebassets.development.json
+E:\C#\Asp.Net core MVC\StudentAPI\obj\Debug\net6.0\scopedcss\bundle\StudentAPI.styles.css
+E:\C#\Asp.Net core MVC\StudentAPI\obj\Debug\net6.0\StudentAPI.csproj.CopyComplete
+E:\C#\Asp.Net core MVC\StudentAPI\obj\Debug\net6.0\StudentAPI.dll
+E:\C#\Asp.Net core MVC\StudentAPI\obj\Debug\net6.0\refint\StudentAPI.dll
+E:\C#\Asp.Net core MVC\StudentAPI\obj\Debug\net6.0\StudentAPI.pdb
+E:\C#\Asp.Net core MVC\StudentAPI\obj\Debug\net6.0\StudentAPI.genruntimeconfig.cache
+E:\C#\Asp.Net core MVC\StudentAPI\obj\Debug\net6.0\ref\StudentAPI.dll
+F:\TavSoft Intership\StudentAPI\StudentAPI\bin\Debug\net6.0\appsettings.Development.json
+F:\TavSoft Intership\StudentAPI\StudentAPI\bin\Debug\net6.0\appsettings.json
+F:\TavSoft Intership\StudentAPI\StudentAPI\bin\Debug\net6.0\StudentAPI.exe
+F:\TavSoft Intership\StudentAPI\StudentAPI\bin\Debug\net6.0\StudentAPI.deps.json
+F:\TavSoft Intership\StudentAPI\StudentAPI\bin\Debug\net6.0\StudentAPI.runtimeconfig.json
+F:\TavSoft Intership\StudentAPI\StudentAPI\bin\Debug\net6.0\StudentAPI.dll
+F:\TavSoft Intership\StudentAPI\StudentAPI\bin\Debug\net6.0\StudentAPI.pdb
+F:\TavSoft Intership\StudentAPI\StudentAPI\bin\Debug\net6.0\Humanizer.dll
+F:\TavSoft Intership\StudentAPI\StudentAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\TavSoft Intership\StudentAPI\StudentAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\TavSoft Intership\StudentAPI\StudentAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\TavSoft Intership\StudentAPI\StudentAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\TavSoft Intership\StudentAPI\StudentAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\TavSoft Intership\StudentAPI\StudentAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\TavSoft Intership\StudentAPI\StudentAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\TavSoft Intership\StudentAPI\StudentAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\TavSoft Intership\StudentAPI\StudentAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\TavSoft Intership\StudentAPI\StudentAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\TavSoft Intership\StudentAPI\StudentAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\TavSoft Intership\StudentAPI\StudentAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\TavSoft Intership\StudentAPI\StudentAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\TavSoft Intership\StudentAPI\StudentAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\TavSoft Intership\StudentAPI\StudentAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\TavSoft Intership\StudentAPI\StudentAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\TavSoft Intership\StudentAPI\StudentAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\TavSoft Intership\StudentAPI\StudentAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\TavSoft Intership\StudentAPI\StudentAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\TavSoft Intership\StudentAPI\StudentAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\TavSoft Intership\StudentAPI\StudentAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\TavSoft Intership\StudentAPI\StudentAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\TavSoft Intership\StudentAPI\StudentAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\TavSoft Intership\StudentAPI\StudentAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\TavSoft Intership\StudentAPI\StudentAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\TavSoft Intership\StudentAPI\StudentAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\TavSoft Intership\StudentAPI\StudentAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\TavSoft Intership\StudentAPI\StudentAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\TavSoft Intership\StudentAPI\StudentAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\TavSoft Intership\StudentAPI\StudentAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\TavSoft Intership\StudentAPI\StudentAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\TavSoft Intership\StudentAPI\StudentAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\TavSoft Intership\StudentAPI\StudentAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\TavSoft Intership\StudentAPI\StudentAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\TavSoft Intership\StudentAPI\StudentAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\TavSoft Intership\StudentAPI\StudentAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\TavSoft Intership\StudentAPI\StudentAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\TavSoft Intership\StudentAPI\StudentAPI\obj\Debug\net6.0\StudentAPI.csproj.AssemblyReference.cache
+F:\TavSoft Intership\StudentAPI\StudentAPI\obj\Debug\net6.0\StudentAPI.GeneratedMSBuildEditorConfig.editorconfig
+F:\TavSoft Intership\StudentAPI\StudentAPI\obj\Debug\net6.0\StudentAPI.AssemblyInfoInputs.cache
+F:\TavSoft Intership\StudentAPI\StudentAPI\obj\Debug\net6.0\StudentAPI.AssemblyInfo.cs
+F:\TavSoft Intership\StudentAPI\StudentAPI\obj\Debug\net6.0\StudentAPI.csproj.CoreCompileInputs.cache
+F:\TavSoft Intership\StudentAPI\StudentAPI\obj\Debug\net6.0\StudentAPI.MvcApplicationPartsAssemblyInfo.cs
+F:\TavSoft Intership\StudentAPI\StudentAPI\obj\Debug\net6.0\StudentAPI.MvcApplicationPartsAssemblyInfo.cache
+F:\TavSoft Intership\StudentAPI\StudentAPI\obj\Debug\net6.0\staticwebassets.build.json
+F:\TavSoft Intership\StudentAPI\StudentAPI\obj\Debug\net6.0\staticwebassets.development.json
+F:\TavSoft Intership\StudentAPI\StudentAPI\obj\Debug\net6.0\scopedcss\bundle\StudentAPI.styles.css
+F:\TavSoft Intership\StudentAPI\StudentAPI\obj\Debug\net6.0\StudentAPI.csproj.CopyComplete
+F:\TavSoft Intership\StudentAPI\StudentAPI\obj\Debug\net6.0\StudentAPI.dll
+F:\TavSoft Intership\StudentAPI\StudentAPI\obj\Debug\net6.0\refint\StudentAPI.dll
+F:\TavSoft Intership\StudentAPI\StudentAPI\obj\Debug\net6.0\StudentAPI.pdb
+F:\TavSoft Intership\StudentAPI\StudentAPI\obj\Debug\net6.0\StudentAPI.genruntimeconfig.cache
+F:\TavSoft Intership\StudentAPI\StudentAPI\obj\Debug\net6.0\ref\StudentAPI.dll
